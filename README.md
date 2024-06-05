@@ -1,10 +1,13 @@
 👋 Hi, I’m Mercy
 - Currently pursuing my Bachelor's degree in Computer Science
+
 🌱 I'm passionate about
 - Coding
 - Content Writing
+  
 🏆 Achievements
 - Received "Outstanding Academic Performer Award" in university examinations.
+  
 ✨ Fun fact
 - I'm passionate about creative writing and regularly craft new content.
 
