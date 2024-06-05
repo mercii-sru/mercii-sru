@@ -1,12 +1,12 @@
 👋 Hi, I’m Mercy
-  - Currently pursuing my Bachelor's degree in Computer Science
+- Currently pursuing my Bachelor's degree in Computer Science
 🌱 I'm passionate about
-  - Coding
-  - Content Writing
+- Coding
+- Content Writing
 🏆 Achievements
-  - Received "Outstanding Academic Performer Award" in university examinations.
+- Received "Outstanding Academic Performer Award" in university examinations.
 ✨ Fun fact
-  - I'm passionate about creative writing and regularly craft new content.
+- I'm passionate about creative writing and regularly craft new content.
 
 <!---
 mercii-sru/mercii-sru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
